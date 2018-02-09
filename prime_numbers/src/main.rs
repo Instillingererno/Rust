@@ -1,9 +1,9 @@
 fn main() {
-    let mut prime_array: [i64; 500000] = [0; 500000];
+    let mut prime_array: [u32; 20000] = [0; 20000];
     let mut iterator = 0;
     let mut number = 1;
 
-    while iterator < 500000 {
+    while iterator < 20000 {
         let mut prime = true;
         number += 1;
         for x in 2..(number-1) {
@@ -17,6 +17,7 @@ fn main() {
             iterator += 1;
         }
     }
+    print!("{}", number);
     /*for x in prime_array.iter() {
         print!("{}\n", x);
     }*/
