@@ -2,9 +2,9 @@ use std::thread;
 use std::cmp::min;
 
 const START : u32 = 0;
-const END : u32 = 100_000_001;
+const END : u32 = 1_000_000_001;
 const PRINT : bool = false;
-const NUMBER_OF_THREADS : u32 = 64; // 3 for 10k -> 64 for 100 000k
+const NUMBER_OF_THREADS : u32 = 252; // 3 for 10k -> 64 for 100 000k
 const BUFFER : usize = 500;
 
 // --- HELPER FUNCTIONS ---
