@@ -1,0 +1,13 @@
+C:\Users\TDAT1337\Documents\GitHub\Rust\hello_rocket\target\debug\deps\liblibc-dce9ac9e5a7dae71.rlib: C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\lib.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\macros.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\dox.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\windows.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\redox\mod.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\redox\net.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\cloudabi\mod.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\fuchsia\mod.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\unix\mod.rs
+
+C:\Users\TDAT1337\Documents\GitHub\Rust\hello_rocket\target\debug\deps\libc-dce9ac9e5a7dae71.d: C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\lib.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\macros.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\dox.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\windows.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\redox\mod.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\redox\net.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\cloudabi\mod.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\fuchsia\mod.rs C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\unix\mod.rs
+
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\lib.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\macros.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\dox.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\windows.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\redox\mod.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\redox\net.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\cloudabi\mod.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\fuchsia\mod.rs:
+C:\Users\TDAT1337\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.40\src\unix\mod.rs:

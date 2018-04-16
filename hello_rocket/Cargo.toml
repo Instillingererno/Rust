@@ -1,0 +1,9 @@
+[package]
+name = "hello_rocket"
+version = "0.1.0"
+authors = ["Sveinung Øverland"]
+
+[dependencies]
+rocket = "0.3.8"
+rocket_codegen = "0.3.8"
+rand = "0.3"

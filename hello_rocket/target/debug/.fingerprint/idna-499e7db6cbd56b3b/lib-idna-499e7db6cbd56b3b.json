@@ -1,0 +1,1 @@
+{"rustc":856697738923649634,"features":"[]","target":15673494873825124964,"profile":2479238963835404001,"path":15501802202264626704,"deps":[["matches v0.1.6",5969838449819425841],["unicode-bidi v0.3.4",3064960146087198412],["unicode-normalization v0.1.5",11781384367144904536]],"local":[{"Precalculated":"0.1.4"}],"rustflags":[],"epoch":"Epoch2015"}
