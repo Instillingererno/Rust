@@ -1,4 +1,4 @@
-#![feature(type_ascription)]
+//#![feature(type_ascription)]
 
 extern crate rand;
 
@@ -34,9 +34,9 @@ impl Hand {
     fn print(self) -> String {
         let mut output: String = "".to_string();
         for a in self.dice.iter() {
-            output.add(&a.value.to_string());
+            output = output + &a.value.to_string();
         };
-        return output.to_string();
+        return output;
     }
 }
 

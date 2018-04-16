@@ -21,7 +21,7 @@ fn index() -> &'static str {
 
         POST /
 
-            accepts raw data in the body of the requuest and responds
+            accepts raw data in the body of the request and responds
             a page containing the body's content
 
         GET /<id>
