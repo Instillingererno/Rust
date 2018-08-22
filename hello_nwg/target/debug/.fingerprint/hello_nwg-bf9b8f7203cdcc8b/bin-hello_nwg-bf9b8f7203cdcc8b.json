@@ -1,0 +1,1 @@
+{"rustc":17343214817280300350,"features":"[]","target":4306535267351072185,"profile":15810662796109524878,"path":1036222786711178230,"deps":[["native-windows-gui v0.2.0","native_windows_gui",7620785642287880068]],"local":[{"MtimeBased":[[1530108427,101488400],".fingerprint\\hello_nwg-bf9b8f7203cdcc8b\\dep-bin-hello_nwg-bf9b8f7203cdcc8b"]}],"rustflags":[],"edition":"Edition2015"}

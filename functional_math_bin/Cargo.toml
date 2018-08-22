@@ -1,0 +1,8 @@
+[package]
+name = "functional_math_bin"
+version = "0.1.0"
+authors = ["Sveinung Øverland <sveinungg.overlandd@gmail.com>"]
+
+[dependencies]
+regex = "*"
+lazy_static = "*"

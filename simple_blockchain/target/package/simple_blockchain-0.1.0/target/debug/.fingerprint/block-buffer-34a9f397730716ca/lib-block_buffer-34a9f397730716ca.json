@@ -1,0 +1,1 @@
+{"rustc":8717595204033882942,"features":"[]","target":1199429106201559101,"profile":2479238963835404001,"path":4209096339272220856,"deps":[["arrayref v0.3.4",16151749809614632211],["byte-tools v0.2.0",15944392308268407257]],"local":[{"Precalculated":"0.3.3"}],"rustflags":[],"edition":"Edition2015"}

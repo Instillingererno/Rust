@@ -35,10 +35,10 @@ fn index() -> io::Result<NamedFile> {
 fn js() -> io::Result<NamedFile> {
     NamedFile::open("static/main.js")
 }
-#[post("/login", data = "<form>")]
+/*#[post("/login", data = "<form>")]
 fn login(form: Form<FormInput>) -> &'static str {
     "login successful"
-}
+} */
 
 fn main() {
     rocket::ignite()

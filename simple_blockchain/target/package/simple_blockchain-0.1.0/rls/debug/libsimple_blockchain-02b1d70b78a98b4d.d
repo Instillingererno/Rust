@@ -1,0 +1,1 @@
+c:\Users\KALAM\Documents\Rust\simple_blockchain\rls\debug\libsimple_blockchain-02b1d70b78a98b4d.rmeta: c:\Users\KALAM\Documents\Rust\simple_blockchain\src\blockchain.rs c:\Users\KALAM\Documents\Rust\simple_blockchain\src\main.rs

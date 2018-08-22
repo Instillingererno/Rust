@@ -1,0 +1,6 @@
+[package]
+name = "http_server_rust"
+version = "0.1.0"
+authors = ["Sveinung Øverland <sveinungg.overlandd@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,1 @@
+{"rustc":17343214817280300350,"features":"[]","target":588431059460380554,"profile":4526152405984878336,"path":1036222786711178230,"deps":[["conrod v0.52.0","conrod",8446869015591819538]],"local":[{"MtimeBased":[[1530045232,263120300],".fingerprint\\conrod_test-2342a6fa086d02f6\\dep-bin-conrod_test-2342a6fa086d02f6"]}],"rustflags":[],"edition":"Edition2015"}

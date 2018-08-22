@@ -1,0 +1,11 @@
+[package]
+name = "simple_blockchain"
+version = "0.1.0"
+authors = ["L_Sveinung <sveinuov@stud.ntnu.no>"]
+
+[dependencies]
+time = "*"
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
+sha2 = "*"
